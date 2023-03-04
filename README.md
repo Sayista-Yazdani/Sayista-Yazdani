@@ -1,6 +1,4 @@
-![logo](https://github.com/Sayista-Yazdani/Sayista-Yazdani/blob/main/MY%20GITHUB%20BANNER.jpg)
-
-
+<img align="center"  width="1250" height="375" src="https://github.com/Sayista-Yazdani/Sayista-Yazdani/blob/main/MY%20GITHUB%20BANNER.jpg ">
 <h1 align="center">Hi 👋, I'm Sayista Yazdani</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="Coding image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
