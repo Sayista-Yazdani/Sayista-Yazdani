@@ -1,4 +1,4 @@
-<img align="center"  width="1260" height="367px" src="banner.png">
+<img align="center"  width="1260" height="367px" src="Black Modern Minimalist Simple Technology Banner.png">
 <h1 align="center">Hi 👋, I'm Sayista Yazdani</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 <img align="right" alt="Coding image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
