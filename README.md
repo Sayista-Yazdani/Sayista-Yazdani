@@ -1,41 +1,96 @@
-<img align="center"  width="1260" height="450px" src="Black Modern Minimalist Simple Technology Banner.png">
-<h1 align="center">Hi 👋, I'm Sayista Yazdani</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
-<img align="right" alt="Coding image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siya&label=Profile%20views&color=0e75b6&style=flat" alt="siya" /> </p>
+<div align="center">
 
+![Banner](Black Modern Minimalist Simple Technology Banner.png)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sayista-Yazdani?tab=repositories](https://github.com/Sayista-Yazdani?tab=repositories)
+</div>
 
-- 📫 How to reach me **sayistayazdani1999@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I think, I am curious.**
+# Hi there, I'm Sayista Yazdani 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayista-yazdani-465769215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayista-yazdani-465769215/" height="30" width="40" />
+### 💻 Passionate Software Developer · India 🇮🇳
+
+[![Profile Views](https://komarev.com/ghpvc/?username=siya&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Sayista-Yazdani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayista-yazdani-465769215/)
+[![Email](https://img.shields.io/badge/Email-sayistayazdani1999%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayistayazdani1999@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Sayista--Yazdani-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sayista-Yazdani)
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+
+### 🙋‍♀️ About Me
+
+- 🔭 &nbsp;Currently working on building impactful software projects
+- 🌱 &nbsp;Always exploring new technologies and frameworks
+- 💬 &nbsp;Ask me about **Java, .NET, JavaScript, Web Development**
+- 📫 &nbsp;Reach me at **sayistayazdani1999@gmail.com**
+- 👨‍💻 &nbsp;All my projects: [github.com/Sayista-Yazdani](https://github.com/Sayista-Yazdani?tab=repositories)
+- ⚡ &nbsp;Fun fact: **I think, therefore I am curious.**
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Languages & Frameworks
+
+<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 12px;">
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42" title="Java"/></a>&nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="42" height="42" title=".NET"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" title="JavaScript"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" title="HTML5"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42" title="CSS3"/></a>&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" title="Bootstrap"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42" title="MySQL"/></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<h4 align="left"> I really enjoy learning languages and frameworks like: </h4>
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> &ensp;
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>&ensp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&ensp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&ensp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&ensp;
-  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &ensp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></p>
+### 🎨 Design & Tools
 
+<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 12px;">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="42" height="42" title="Figma"/></a>&nbsp;&nbsp;
 
+</p>
 
-<h3 align="left">Familiar With</h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+---
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayista-yazdani&show_icons=true&locale=en&layout=compact" alt="sayista-yazdani" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayista-yazdani&" alt="sayista-yazdani" /></p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayista-yazdani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayista-yazdani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayista-yazdani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/sayista-yazdani-465769215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:sayistayazdani1999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://github.com/Sayista-Yazdani" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is not just a skill — it's a way of thinking."</i>
+</div>
