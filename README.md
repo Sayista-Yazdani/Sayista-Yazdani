@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayista-yazdani-465769215/)
 [![Email](https://img.shields.io/badge/Email-sayistayazdani1999%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayistayazdani1999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sayista--Yazdani-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sayista-Yazdani)
-
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/sayista_yazdani_3c0e9f4f9)
 </div>
 
 ---
