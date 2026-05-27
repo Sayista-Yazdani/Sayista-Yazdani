@@ -77,6 +77,9 @@
 
 <div align="center">
 
+<a href="https://dev.to/sayista_yazdani_3c0e9f4f9" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to"/>
+</a>&nbsp;
   <a href="https://www.linkedin.com/in/sayista-yazdani-465769215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
