@@ -27,6 +27,7 @@
 - 🌱 &nbsp;Always exploring new technologies and frameworks
 - 💬 &nbsp;Ask me about **Java, .NET, JavaScript, Web Development**
 - 📫 &nbsp;Reach me at **sayistayazdani1999@gmail.com**
+- 📫 &nbsp;Check Out my blog page **[https://dev.to/sayista_yazdani_3c0e9f4f9](https://dev.to/sayista_yazdani_3c0e9f4f9)**
 - 👨‍💻 &nbsp;All my projects: [github.com/Sayista-Yazdani](https://github.com/Sayista-Yazdani?tab=repositories)
 - ⚡ &nbsp;Fun fact: **I think, therefore I am curious.**
 
