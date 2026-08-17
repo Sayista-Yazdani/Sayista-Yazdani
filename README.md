@@ -1,31 +1,29 @@
 <div align="center">
-
-<img align="center"  width="1260" height="450px" src="Black Modern Minimalist Simple Technology Banner.png">
-
+  <img width="100%" src="Black Modern Minimalist Simple Technology Banner.png" alt="Header Banner" />
 </div>
 
+<br />
+
 <div align="center">
+  <h1>Hey there! I'm <a href="https://github.com/Sayista-Yazdani">Sayista Yazdani</a> 👩‍💻</h1>
+  <p>🚀 <b>Passionate Software Developer</b> &nbsp;|&nbsp; 📍 <b>India 🇮🇳</b></p>
 
-# Hi there, I'm Sayista Yazdani 👋
-
-### 💻 Passionate Software Developer · India 🇮🇳
-
-[![Profile Views](https://komarev.com/ghpvc/?username=siya&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Sayista-Yazdani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayista-yazdani-465769215/)
-[![Email](https://img.shields.io/badge/Email-sayistayazdani1999%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sayistayazdani1999@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sayista--Yazdani-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sayista-Yazdani)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://dev.to/sayista_yazdani_3c0e9f4f9)
+  <p>
+    <a href="https://github.com/Sayista-Yazdani"><img src="https://komarev.com/ghpvc/?username=sayista-yazdani&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views"/></a>
+    <a href="https://www.linkedin.com/in/sayista-yazdani-465769215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:sayistayazdani1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://dev.to/sayista_yazdani_3c0e9f4f9"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to"/></a>
+  </p>
 </div>
 
 ---
-
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ### 🙋‍♀️ About Me
 
 - 🔭 &nbsp;Currently working on building impactful software projects
 - 🌱 &nbsp;Always exploring new technologies and frameworks
-- 💬 &nbsp;Ask me about **Java, .NET, JavaScript, Web Development**
+- 💬 &nbsp;Ask me about **React, Laravel, JavaScript, Web Development**
 - 📫 &nbsp;Reach me at **sayistayazdani1999@gmail.com**
 - 📫 &nbsp;Check Out my blog page **[https://dev.to/sayista_yazdani_3c0e9f4f9](https://dev.to/sayista_yazdani_3c0e9f4f9)**
 - 👨‍💻 &nbsp;All my projects: [github.com/Sayista-Yazdani](https://github.com/Sayista-Yazdani?tab=repositories)
@@ -35,11 +33,6 @@
 
 ---
 
-### 🛠️ Languages & Frameworks
-
-<p align="left" style="display: flex; align-items: center; flex-wrap: wrap; gap: 12px;">
-  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42" title="React"/></a>
-&nbsp;&nbsp;
 <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="Laravel" width="42" height="42" title="Laravel"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" title="JavaScript"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42" title="HTML5"/></a>&nbsp;&nbsp;
@@ -63,18 +56,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayista-yazdani&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayista-yazdani&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayista-yazdani&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
+
+<br />
 
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayista-yazdani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=sayista-yazdani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
